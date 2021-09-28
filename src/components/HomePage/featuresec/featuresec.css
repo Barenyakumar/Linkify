@@ -244,8 +244,8 @@
   }
   
   @media screen and (max-width: 1296px) {
-      #ip{
-          margin-left: 29%;
+      section{
+        text-align: center;
       }
       #ldot{
           display: none;
